@@ -37,6 +37,3 @@ flight-delay-dashboard/
 ├── requirements.txt
 ├── README.md
 └── assets/
-
-
-
