@@ -31,12 +31,7 @@ An interactive Dash application built with Plotly to visualize flight delay stat
 ## 📁 Project Structure
 
 
-flight-delay-dashboard/
-├── app.py
-├── airline_data.csv
-├── requirements.txt
-├── README.md
-└── assets/
+<pre> flight-delay-dashboard/ ├── <b>app.py</b> # Main Dash app file ├── <b>airline_data.csv</b> # Local airline dataset (CSV) ├── <b>requirements.txt</b> # Python dependencies ├── <b>README.md</b> # Project documentation └── <b>assets/</b> # Folder for images, CSS, etc. ├── <b>screenshot.png</b> # Preview of dashboard └── <b>screenshot2.png</b> # Optional: second preview </pre>
 
 
 
