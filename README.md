@@ -30,6 +30,7 @@ An interactive Dash application built with Plotly to visualize flight delay stat
 
 ## 📁 Project Structure
 
+```bash
 flight-delay-dashboard/
 ├── app.py
 ├── airline_data.csv
